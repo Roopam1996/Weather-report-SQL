@@ -1,3 +1,9 @@
+**Business Impact:**
+This SQL-driven weather analysis helps in climate monitoring, disaster preparedness, and agricultural planning. Businesses and governments can:
+✔ Improve weather forecasting for better decision-making.
+✔ Prepare for extreme weather by analyzing historical patterns.
+✔ Optimize energy consumption based on seasonal trends.
+
 
 Q1) Write a query to create the TRIANGLES table.
 
